@@ -135,7 +135,7 @@ function About() {
               viewport={{ once: true }}
             >
               <Typography variant="h6" sx={{ mb: 3, lineHeight: 1.8, textAlign: { xs: "center", md: "left" } }}>
-                Hello! I'm John, a passionate full-stack developer based in San Francisco. I enjoy creating things that
+                Hello! I'm PariArul, a passionate full-stack developer based in San Francisco. I enjoy creating things that
                 live on the internet, whether that be websites, applications, or anything in between.
               </Typography>
               <Typography
